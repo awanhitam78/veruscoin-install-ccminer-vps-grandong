@@ -11,7 +11,7 @@
 > Follow the command below in Terminal Linux OS
 
 - [x] `sudo apt update && sudo apt install -y git nano`
-- [x] `git clone` [https://github.com/awanhitam78/grandong.git](https://github.com/awanhitam78/grandong.git)
+- [x] `git clone` [https://github.com/awanhitam78/veruscoin-install-ccminer-vps-grandong/grandong.git](https://github.com/awanhitam78/veruscoin-install-ccminer-vps-grandong/grandong.git)
 - [x] `cd grandong`
 - [x] `nano grandong`
   - Search with `CTRL + W` **RJFg5ai5DVwuRnjq98K4qy3axEzncpuboc**
