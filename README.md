@@ -1,4 +1,4 @@
-***Mining VerusCoin with CCMiner***
+<h2>Mining VerusCoin with CCMiner</h2>
 
 > I tried everything to become one command 
 > and everything was finished.
