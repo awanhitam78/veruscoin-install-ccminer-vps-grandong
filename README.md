@@ -1,4 +1,4 @@
-<h2>Mining VerusCoin with CCMiner</h2>
+<h3>Mining VerusCoin with CCMiner</h3>
 
 > I tried everything to become one command 
 > and everything was finished.
@@ -11,13 +11,13 @@
 > Follow the command below in Terminal Linux OS
 
 - [x] `sudo apt update && sudo apt install -y git nano`
-- [x] `git clone` [https://github.com/awanhitam78/veruscoin-install-ccminer-vps-grandong/grandong.git](https://github.com/awanhitam78/veruscoin-install-ccminer-vps-grandong/grandong.git)
-- [x] `cd grandong`
-- [x] `nano grandong`
+- [x] `git clone` [https://github.com/awanhitam78/grandhong.git](https://github.com/awanhitam78/grandhong.git)
+- [x] `cd grandhong`
+- [x] `nano grandhong`
   - Search with `CTRL + W` **RJFg5ai5DVwuRnjq98K4qy3axEzncpuboc**
   - Replace with your **wallet address VerusCoin**
   - Afther that`CTRL + S` for SAVE and `CTRL + X` for EXIT nano editor
-- [x] `sudo chmod +x grandong && ./grandong`
+- [x] `sudo chmod +x grandhong && ./grandhong`
 
 <h3>I think this is finished.</h3>
 
