@@ -1,0 +1,1 @@
+# veruscoin-install-ccminer-vps-grandong
